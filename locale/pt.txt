@@ -1,0 +1,48 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Excelência em Esterilização
+
+### Title
+tour.name = Esteriliza
+
+## Media
+
+### Title
+panorama_56DD35A6_5F0F_0F1C_41BE_555A0E5BE175.label = 12
+panorama_56DD5918_5F0F_0733_41C5_F6FFBF333556.label = 11
+panorama_56DD5B35_5F0F_3B7C_41B6_B91B1B338A58.label = 05
+panorama_56DD6D33_5F0F_1F74_41CB_63030FD80B4D.label = 10
+panorama_56DDA835_5F0F_057D_41D3_93316A9DC156.label = 06
+panorama_56DDE281_5F0F_0514_41CB_82AB180C1B40.label = 08
+panorama_56DE6E4B_5F0C_FD15_41CD_127EC0B7B397.label = 04
+panorama_56DED118_5F0D_0734_41C6_9DD8DF5E8588.label = 03
+panorama_6426386D_6F05_2232_41B6_82B67EEE216E.label = 09
+panorama_65A3288A_6F05_22F1_41D0_9CD20DBF706D.label = 07
+panorama_991C6940_8247_E85E_41CE_112510E4DF5F.label = 02
+panorama_9C72C0CF_8240_9862_41D2_02504BE61408.label = Ínicio
+panorama_9F8FE6D7_8247_B863_41D4_A18C83E8C0E1.label = 01
+video_8C10899E_8240_E8E2_41DA_B08773A6FD57.label = video-2
+video_8D2F7DF5_8240_A827_41C8_B47293B5510C.label = video-1
+
+## Popup
+
+### Body
+htmlText_9172C7D1_82C0_987F_41CD_4A988E8BE203.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_978B0AE3_82C3_A822_41DC_2B907D7EACA0.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Title
+window_947B0791_82C7_B8FF_41BB_CE20ABA318D6.title = DEMONSTRAÇAO
+window_95AEE0C8_82C0_986D_41B4_F7CBE171E29E.title = DEMONSTRAÇAO RASTREABILIDADE
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_4FC9E8E0_5F05_0513_41D1_CB05F15B87EE.toolTip = SAÍDA
+HotspotPanoramaOverlayArea_8C57EFBA_8243_A82D_41A6_E5FCF2392AC0.toolTip = DEMONSTRAÇÃO
+HotspotPanoramaOverlayArea_8C6EF75D_824F_9866_41D3_ED222318F5EA.toolTip = DEMONSTRAÇÃO
+HotspotPanoramaOverlayArea_9C7DBD22_8241_A822_41CF_96B08A1330BC.toolTip = ENTRADA ÁREA SUJA
+HotspotPanoramaOverlayArea_9FB11C02_8241_AFDD_41B6_260437253C1D.toolTip = ENTRADA ÁREA LIMPA
+HotspotPanoramaOverlayArea_9FDF841A_8243_9FED_41C3_A5DD73D832A2.toolTip = SAÍDA MATERIAL LIMPO
