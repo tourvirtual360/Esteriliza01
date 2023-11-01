@@ -1,9 +1,8 @@
 {
  "name": "Esteriliza",
+ "theme_color": "#FFFFFF",
  "description": "Excelência em Esterilização",
  "start_url": "index.htm",
- "theme_color": "#FFFFFF",
- "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "display": "fullscreen"
+ "display": "fullscreen",
+ "background_color": "#FFFFFF"
 }
